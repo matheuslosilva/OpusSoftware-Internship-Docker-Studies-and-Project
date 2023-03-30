@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://s3.us-west-2.amazonaws.com/temporary.notion-static.com/Export-8e16bb42-94fe-4407-9aeb-2ca1a809bd18/Docker_-_Material_de_apoio_Matheus_Luis_Oliveira_da_Silva.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221104%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221104T161744Z&X-Amz-Expires=604800&X-Amz-Signature=d331b01f00ac421959f4cf0399f3a447a25b0fbdbcf89a2ae7edc12474a90773&X-Amz-SignedHeaders=host&x-id=GetObject

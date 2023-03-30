@@ -1,0 +1,29 @@
+Demonstração 1:
+
+realizar build com três layers 
+docker stats para ver containers intermediarios
+docker history IMAGE para ver tamanho das layers
+
+Demonstração 2:
+
+rodar container ubuntu sem nada
+rodar container ubuntu com -it ou sleep, etc...
+
+Demonstração 3:
+
+Rodar um container ubuntu
+top dentro do container
+top num outro terminal
+systemd-cgls para listar cgroups
+docer top IDCONTAINER para mostrar os processos e os ids 
+
+Demonstração 4:
+criar um arquivo e ver ele sumir depois
+
+DEmonstração 5:
+Rodar dockerfile e mostrar diferença entre CMD e ENTRYPOINT
+
+Demonstração 6:
+Workdir
+definir o workdir no build e fazer testes
+explicar diferença entre o diretorio atual de build e o diretorio atual de trabalho
